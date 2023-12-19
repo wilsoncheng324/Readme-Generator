@@ -8,10 +8,13 @@ This Node.js application simplifies the process of crafting professional README.
 
 ## Table of content 
 
+
+- [Screen Recording of Application Demo](#screen-recording-of-application-demo)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [License](#license-license-unlicense)
+- [Questions](#questions)
+
 
 ## Screen Recording of Application Demo
 
