@@ -24,6 +24,7 @@ https://drive.google.com/file/d/1Xg8feufmMSSrHIlu99iT2bKesxst2c9O/view
 ## Screenshots
 
 ![Alt text](./Develop/image.png)
+![Alt text](./Develop/image-1.png)
 
 ## Installation
 
